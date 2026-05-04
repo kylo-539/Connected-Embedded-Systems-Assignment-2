@@ -2,7 +2,7 @@
 
 # Assignment 2: MQTT Telemetry + Visualisation + LED Alerts
 # Grade: 90%
-## Source code available upon request
+## Source code and video demonstration available upon request
 
 ## What This Project Currently Does
 This project is a complete MQTT-based telemetry workflow made up of multiple programs:
